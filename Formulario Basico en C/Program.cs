@@ -37,9 +37,13 @@ namespace Formulario_Basico_en_C
 
             Console.WriteLine("Ingresa tu edad: ");
             Edad = Convert.ToInt32(Console.ReadLine());
-            if (Edad <= 18)
+            if (Edad < 17)
             {
                 Console.WriteLine("El usuario es menor de edad, Registro Fallido");
+            }
+            else
+            {
+                Console.WriteLine("Registro Exitoso");
             }
 
         }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edu15\\Desktop\\visual\\Formulario Basico en C\\Formulario Basico en C\\Formulario Basico en C.csproj": {}
+    "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario-basico-en-C-\\Formulario Basico en C\\Formulario Basico en C.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edu15\\Desktop\\visual\\Formulario Basico en C\\Formulario Basico en C\\Formulario Basico en C.csproj": {
+    "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario-basico-en-C-\\Formulario Basico en C\\Formulario Basico en C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edu15\\Desktop\\visual\\Formulario Basico en C\\Formulario Basico en C\\Formulario Basico en C.csproj",
+        "projectUniqueName": "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario-basico-en-C-\\Formulario Basico en C\\Formulario Basico en C.csproj",
         "projectName": "Formulario Basico en C",
-        "projectPath": "C:\\Users\\edu15\\Desktop\\visual\\Formulario Basico en C\\Formulario Basico en C\\Formulario Basico en C.csproj",
-        "packagesPath": "C:\\Users\\edu15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edu15\\Desktop\\visual\\Formulario Basico en C\\Formulario Basico en C\\obj\\",
+        "projectPath": "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario-basico-en-C-\\Formulario Basico en C\\Formulario Basico en C.csproj",
+        "packagesPath": "C:\\Users\\romar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario-basico-en-C-\\Formulario Basico en C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edu15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\romar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
