@@ -1,0 +1,13 @@
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\bin\Debug\netcoreapp3.1\Formulario Basico en C.exe
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\bin\Debug\netcoreapp3.1\Formulario Basico en C.deps.json
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\bin\Debug\netcoreapp3.1\Formulario Basico en C.runtimeconfig.json
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\bin\Debug\netcoreapp3.1\Formulario Basico en C.runtimeconfig.dev.json
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\bin\Debug\netcoreapp3.1\Formulario Basico en C.dll
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\bin\Debug\netcoreapp3.1\Formulario Basico en C.pdb
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.csprojAssemblyReference.cache
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.AssemblyInfoInputs.cache
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.AssemblyInfo.cs
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.csproj.CoreCompileInputs.cache
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.dll
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.pdb
+C:\Users\edu15\Desktop\visual\Formulario Basico en C\Formulario Basico en C\obj\Debug\netcoreapp3.1\Formulario Basico en C.genruntimeconfig.cache
