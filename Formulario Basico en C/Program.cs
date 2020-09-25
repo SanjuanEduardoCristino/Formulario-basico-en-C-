@@ -12,7 +12,7 @@ namespace Formulario_Basico_en_C
             String Ocupacion;
             String Correo;
             String Mes;
-            int Edad;
+            int Edad;//variable entera
 
             Console.WriteLine("REGISTRO EN EL SISTEMA");
             Console.WriteLine("Ingresa Tu nombre");
