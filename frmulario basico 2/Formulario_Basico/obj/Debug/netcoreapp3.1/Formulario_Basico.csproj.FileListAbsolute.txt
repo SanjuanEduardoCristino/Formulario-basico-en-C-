@@ -1,0 +1,13 @@
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\bin\Debug\netcoreapp3.1\Formulario_Basico.exe
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\bin\Debug\netcoreapp3.1\Formulario_Basico.deps.json
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\bin\Debug\netcoreapp3.1\Formulario_Basico.runtimeconfig.json
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\bin\Debug\netcoreapp3.1\Formulario_Basico.runtimeconfig.dev.json
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\bin\Debug\netcoreapp3.1\Formulario_Basico.dll
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\bin\Debug\netcoreapp3.1\Formulario_Basico.pdb
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.csprojAssemblyReference.cache
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.AssemblyInfoInputs.cache
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.AssemblyInfo.cs
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.dll
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.pdb
+C:\Users\FAMILIA RENTERIA\source\repos\Formulario_Basico\Formulario_Basico\obj\Debug\netcoreapp3.1\Formulario_Basico.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Formulario_Basico/1.0.0": {
+        "runtime": {
+          "Formulario_Basico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formulario_Basico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
